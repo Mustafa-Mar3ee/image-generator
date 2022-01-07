@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-, "helper"  ]
+, "helper", "image.tsx"  ]
 }
